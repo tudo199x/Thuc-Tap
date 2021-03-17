@@ -1,0 +1,130 @@
+@font-face {
+    font-family: Bison-Bold;
+    src: url('../font/Bison-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.left {
+    background-color: #fdcd07;
+    height: 785px;
+}
+
+.right {
+    background-color: black;
+    width: 50%;
+    height: 785px;
+}
+
+#logo {
+    padding-left: 72%;
+    padding-top: 35%;
+}
+
+.banner {
+    background-color: black;
+    height: 430px;
+}
+
+p {
+    font-family: Bison-Bold;
+}
+
+#text-1 {
+    color: #fdcd07;
+    font-size: 100px;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+#text-2 {
+    color: #fdcd07;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+
+i {
+    background-color: #fdcd07;
+}
+
+.w-30 {
+    max-width: 105%;
+    margin-top: 10px;
+}
+
+.slogan {
+    height: 225px;
+    background-color: #fdcd07;
+}
+
+#text-3 {
+    font-size: 100px;
+    text-align: center;
+    padding-top: 30px;
+    letter-spacing: 10px;
+}
+
+.form {
+    text-align: center;
+}
+
+.email {
+    font-family: Bison-Bold;
+    width: 455px;
+    height: 80px;
+    border-radius: 25px;
+    font-size: 28px;
+    text-align: center;
+    background-color: black;
+    border-color: white;
+}
+
+.submit {
+    font-family: Bison-Bold;
+    width: 455px;
+    height: 80px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #fdcd07;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+
+#bg-yellow {
+    background-color: #fdcd07;
+    padding-left: 65px;
+}
+
+#w-50 {
+    max-width: 100%;
+}
+
+#footer {
+    margin-top: -20px;
+}
+
+#text-4 {
+    font-size: 100px;
+    letter-spacing: 10px;
+    line-height: 110px;
+}
+
+#text-5 {
+    font-size: 100px;
+    letter-spacing: 10px;
+    line-height: 110px;
+    padding-top: 160px;
+}
+
+.bold {
+    font-size: 150px;
+    letter-spacing: 10px;
+}
+
+::placeholder {
+    color: white;
+    letter-spacing: 3px;
+}
